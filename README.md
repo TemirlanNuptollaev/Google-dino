@@ -1,2 +1,2 @@
 # Google-dino 
-<a href="google-dino.surge.sh">google-dino.surge.sh</a>
+<a href="https://google-dino.surge.sh/">google-dino.surge.sh</a>
